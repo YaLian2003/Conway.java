@@ -1,4 +1,4 @@
-//Yangyang Lian
+//Yangyang  Lian
 public abstract class AbstractCell {
 
    private boolean isAlive;
